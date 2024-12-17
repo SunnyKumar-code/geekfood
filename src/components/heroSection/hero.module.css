@@ -25,11 +25,13 @@
   font-size: 3em;
   color: black;
   font-weight: 900;
+  margin: 0;
 }
 .heading2 {
   font-size: 3em;
   color: #be123c;
   font-weight: 900;
+  margin: 0;
 }
 .para {
   font-size: 20px;
