@@ -6,12 +6,12 @@ import Main2 from "./components/main/main2"
 import Quote from "./quote/quote"
 function App() {
 return (<div>
-<Header/>
-<Hero/>
-<Main/>
-<Main2/>
-{/* <Quote></Quote> */}
-<Footer/>
+        <Header/>
+        <Hero/>
+        <Main/>
+        <Main2/>
+        {/* <Quote></Quote> */}
+        <Footer/>
 </div>
 )}
 
